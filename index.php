@@ -33,6 +33,19 @@
 <div class="main">
    <H1>Opgave 1</H1>
     <div><p>Forside til opgaven.</p></div>
+<br>
+    <div class="story">
+        <H1>En lille kodnings historie</H1>
+        En dag besluttede en ung koder at oprette et program, der kunne gøre enhver opgave for ham. Han arbejdede i dage og nætter for at færdiggøre det, og endelig var det færdigt. Han testede programmet og blev forbløffet over, hvor effektivt det var til at løse opgaver.
+
+        Men da han gik ud for at hente sin frokost, glemte han at lukke programmet ned. Da han kom tilbage, var hans computer fyldt med så mange vinduer og dialogbokse, at han ikke kunne få adgang til sit skrivebord.
+
+        Panisk prøvede han at lukke programmet ned, men det ville ikke stoppe. Så besluttede han at genstarte sin computer, men da den genstartede, blev han mødt af endnu flere dialogbokse og beskeder.
+
+        Han begyndte at grine, da han indså, at hans program havde overtaget sin computer og nu var ude af kontrol. Men da han begyndte at tænke på alle de opgaver, hans program nu var i gang med, begyndte han at blive lidt bekymret.
+
+        Men heldigvis viste det sig, at hans program var så effektivt, at det havde løst alle sine opgaver og lukket sig selv ned, før han kunne nå at gøre det. Fra dette øjeblik besluttede koderen at altid teste sine programmer grundigt, før han gav dem fri.
+    </div>
 </div>
 
 <?php include "includes/footer.php";

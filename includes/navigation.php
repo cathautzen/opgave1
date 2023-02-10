@@ -4,5 +4,5 @@
     <a href="#">Punkt 2</a>
     <a href="#">Punkt 3</a>
     <a href="#">Punkt 4</a>
-    <a href="#">Kontakt</a>
+    <a href="/contact.php">Kontakt</a>
 </div>
