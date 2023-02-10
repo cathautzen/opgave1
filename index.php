@@ -27,7 +27,9 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<p>Opgave 1 - Forside</p>
+<div class="main">
+    <div><p>Opgave 1 - Forside</p></div>
+</div>
 
 </body>
 </html>
