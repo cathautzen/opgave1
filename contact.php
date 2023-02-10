@@ -31,8 +31,9 @@
 ?>
 
 <div class="main">
-    <div>Kontakt
-        Her er lidt mere tekst om kontakt</div>
+    <div>
+        <h1>Kontakt</h1>
+        <p>Her er lidt mere tekst om kontakt</p></div>
 </div>
 
 
