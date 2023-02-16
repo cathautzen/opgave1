@@ -32,7 +32,7 @@
 
 <div class="main">
    <H1>Opgave 1</H1>
-    <div><p>Forside til opgaven.</p></div>
+    <div><p>Forside til opgaven</p></div>
 <br>
     <div class="story">
         <H1>En lille kodnings historie</H1>
